@@ -1,0 +1,13 @@
+Package: AMAZonn
+Type: Package
+Title: A Multicollinearity-adjusted Adaptive LASSO for Zero-inflated Count Regression 
+Version: 0.0.1
+Date: 2017-09-11
+Author: Broti Garai, Prithish Banerjee, and Himel Mallick 
+Maintainer: Broti Garai <garai.broti@gmail.com>, Prithish Banerjee <prithish.banerjee@gmail.com>, and Himel Mallick <hmallick@hsph.harvard.edu>
+Description: Algorithms for fitting standard error adjusted EM based zero-inflated penalized coefficient paths for both zero-inflated Poisson and zero-inflated negative binomial regression models. The penalties include Adaptive Least Absolute Shrinkage and Selection Operator (A-LASSO), Smoothly Clipped Absolute Deviation (SCAD) and Minimax Concave Penalty (MCP), and each possibly combining with L_2 penalty.
+Depends: R (>= 3.5.1), pscl, mpath
+License: Creative Commons
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1

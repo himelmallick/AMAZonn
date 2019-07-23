@@ -57,6 +57,6 @@ Wang, Z., Ma, S., and Wang, C.Y. (2015). [Variable Selection for Zero-inflated a
 
 ## Citation
 
-Banerjee, P., Garai, B., Mallick, H., Chowdhury, S., Chatterjee, S. (2019+). A Note on the Adaptive LASSO for Zero-inflated Poisson Regression. Journal of Probability and Statistics (Submitted).
+Banerjee, P., Garai, B., Mallick, H., Chowdhury, S., Chatterjee, S. (2018). [A Note on the Adaptive LASSO for Zero-inflated Poisson Regression](https://www.hindawi.com/journals/jps/2018/2834183/). Journal of Probability and Statistics, 2834183.
 
 
